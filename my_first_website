@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head><title>
+My First Website
+<style>
+    h1 {
+        color: red;
+        font: cheddar jack
+    }
+</style>
+</title></head>
+<body>
+<h1>
+Hello World!
+</h1>
+<b>
+This is my website
+</b>
+<p><i>
+Bouta Get This Money
+</i></p>
+</body>
+</html>
